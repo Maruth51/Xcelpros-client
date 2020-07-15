@@ -3,4 +3,4 @@ applications:
   path: build
   random-route: true
   buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
-  memory: 64M
+  memory: 256MB
